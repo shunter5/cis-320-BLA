@@ -6,5 +6,5 @@ Introduction
 Hypothesis:
 I am going to find the relationshiop between the number of population between year 2014-2015.
 
-Hypothesis:
-I am going to find the relationshiop between the number of population between year 2014-2015.
+Goals:
+I am going to user the pivot table to separate and summary my data include the sumofdeath and sumofbirth of year 2014-2015
