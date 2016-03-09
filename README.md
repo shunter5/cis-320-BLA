@@ -1,4 +1,5 @@
 # cis-320-BLA
+My data is about the population estimate. my goals is going to compare the population between years 2014 and 2015. More than that, i will make some graph in R. 
 The potential outliners for my data
   boxplot.stats(cis$popestimate2014)$out
 by changing the coef argument to 3 to identify suspected my data outliers.
